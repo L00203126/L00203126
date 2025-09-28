@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working on github
-🌱 I’m currently learning github and Iac
-👯 I’m looking to collaborate on nothing atm
-🤔 I’m looking for help with github
-💬 Ask me about networking
+-🔭 I’m currently working on github
+--🌱 I’m currently learning github and Iac
+---👯 I’m looking to collaborate on nothing atm
+----🤔 I’m looking for help with github
+-----💬 Ask me about networking
 
