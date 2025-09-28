@@ -5,15 +5,13 @@
 
 Here are some ideas to get you started:
 -->
--🔭 I’m currently working on github
+-🔭 I’m currently working on github, a CCNA & studying for a Cloud Computing Postgrad qualification
 
--🌱 I’m currently learning github and Iac
+-🌱 I’m currently learning github and IaC
 
 👯 I’m looking to collaborate on nothing atm
 
-🤔 I’m looking for help with github
-
-💬 Ask me about networking
+💬 Ask me about networking, jiujitsu, being unemployed & horses
 
 
 [My jiujitsu website link](https://www.liscannorbaybjj.ie/)
