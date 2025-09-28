@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about networking
 
+
 [My jiujitsu website link](https://www.liscannorbaybjj.ie/)
+![the sitting bear logo](https://github.com/L00203126/L00203126/blob/main/assets/new-sitting-bear-trans-background_cropped%20canvas.png "the happy bear")
 
